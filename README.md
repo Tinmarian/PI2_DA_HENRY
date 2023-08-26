@@ -35,4 +35,4 @@ Después de eso, descubrimos que, después de BTC, ETH y BNB, la criptomoneda m�
 
 Aunado a esto, vale la pena repetir las primeras conclusiones, bajo las cuales definimos que es necesario trabajar sobre los datos de precios del intercambio, pero sobre los datos de volumen y market cap de coingecko. Sin embargo, más adelante nos encontramos con que es justamente el volumen uno de los parámetros que no se correlaciona con ningún otro parámetro.
 
-El reporte sobre el Análisis se puede encontrar en https://docs.google.com/document/d/1UnjnYO15r0W_Pk-WoVyFygt15qWtYoEHEXQQxBNrJ3g/edit?usp=sharing. Con el objetivo de enfocar el readme en la descripción del proyecto de manera breve.
+El reporte sobre el Análisis se puede encontrar en https://docs.google.com/document/d/1UnjnYO15r0W_Pk-WoVyFygt15qWtYoEHEXQQxBNrJ3g/edit?usp=sharing.
