@@ -23,7 +23,7 @@ Descartamos las stablecoins en este análisis, pero se puede añadir un análisi
 
 Se trabajó de manera amplia en el EDA, obteniendo conclusiones certeras sobre las mejores formas de operar, aunque no muchas. Se trabajo con gráficos de líneas, histogramas, gráficos de correlaciones, gráficos de autocorrelación, mapas de calor y gráficos de barras.
 
-El repositorio consta de 3 ramas diferentes: data, EDA y KPIs. En los tres podemos encontrar los archivos .csv, en la rama master se encuentra todo el contenido del proyecto.
+El repositorio consta de 3 ramas diferentes: data, EDA y KPIs. En los tres podemos encontrar los archivos .csv, en la rama master se encuentra todo el contenido del proyecto. Las carpetas "Binance" y "CoinGecko"contienen toda la data utilizada
 
 Se trató de integrar más datos pero por el tiempo no se concluyó. Además, muchos datos de binance no se utilizaron, solo se utilizaron datos diarios.
 
